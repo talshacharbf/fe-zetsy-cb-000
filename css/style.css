@@ -7,7 +7,9 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
+	color: black
+
 }
 
 .wrapper {
@@ -18,3 +20,34 @@ body {
 }
 
 /* Write all remaining styles here */
+h1 {
+	font-size: 5em;
+	color:rgb(152,173,166);
+	font-family: Baskerville;
+	font-weight: normal;
+	margin: 0 0 5px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc
+}
+
+h1 a {
+	color:rgb(152,173,166);
+	font-weight: bold;
+	text-decoration: none
+
+}
+
+h1 a:active {
+	outline-color: initial;
+  outline-style: initial;
+  outline-width: 0px;
+}
+
+a:hover {
+	color: rgb(111,127,122);
+}
+
+#bigimage {
+	border: 5px solid;
+
+}
