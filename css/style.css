@@ -83,3 +83,8 @@ p{
 	font-size: 0.8em;
 	text-align: right;
 }
+
+p a{
+color: #1783bb;
+    text-decoration: none;
+}
