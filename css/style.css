@@ -63,9 +63,8 @@ h2 {
 
 p{
 	font-size: 1em;
-	color:rgb(111,127,122);
+	color:#555;
 	font-weight: normal;
-	margin-top: .83em;
-	margin-bottom: .83em;
+	margin-bottom: .20px;
 
 }
