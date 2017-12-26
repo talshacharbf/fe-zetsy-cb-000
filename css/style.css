@@ -77,5 +77,8 @@ p{
 	border: 5px #ccc solid;
   padding: 1px;
 
+}
 
+#bottom p {
+	font-size: 0.8em
 }
